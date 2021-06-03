@@ -1,6 +1,6 @@
-#Deep_Learning_NLP Version 1.0
-
-# <a href='https://github.com/shubacca/API-mini-project/blob/master/API/api_data_wrangling_mini_project.ipynb'> API mini project </a>
+# <a href='https://github.com/sethorus30/Deep_Learning_NLP/blob/main/Copy_of_Deeplearning_F1_capstone.ipynb> Deep_Learning_NLP Version 1.0 </a> 
+  
+  # <a href='https://github.com/shubacca/API-mini-project/blob/master/API/api_data_wrangling_mini_project.ipynb'> API mini project </a>
 The project analyzes the sentimiate towards different airlines based of tweets that were collected from a dataset from Kaggle (https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
 
 The goals for this project are as follows:
