@@ -1,10 +1,20 @@
-# <a href='https://github.com/sethorus30/Deep_Learning_NLP/blob/main/Copy_of_Deeplearning_F1_capstone.ipynb> Deep_Learning_NLP Version 1.0 </a> 
-  
-  # <a href='https://github.com/shubacca/API-mini-project/blob/master/API/api_data_wrangling_mini_project.ipynb'> API mini project </a>
-The project analyzes the sentimiate towards different airlines based of tweets that were collected from a dataset from Kaggle (https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
+# Deep Learning sentiment analysis
 
-The goals for this project are as follows:
-- What is the general sentiment of the airlines as well as the sentiment of the indiviudual airlines
-- Figuring out whether this problem has to be solved with deep learning or if it could be solved with machine learning
-- If it can be solved using machine learning which models have the most favorable results
-- 
+[Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment/)  
+
+## [Table of Contents](#table-of-contents)
+
+1. [Report](https://docs.google.com/document/d/1wZ3qS7wx8Me2SjAUeEmiceNjyG_RqWtmhj9rrlSoCtY/edit)
+    
+   
+    
+ 2. [Presentation](https://docs.google.com/presentation/d/1_IZXrJZ8f_ywY5crKTxYdkPXqtzVVE6Wu6daPN5yofQ/edit#slide=id.gd1644a4bb6_0_1) 
+ 
+
+ 
+ 
+ 3. Notebooks 
+The notebooks below contain the data analysis and ML code used for this project. Due to the intensive computing requirements for running the neural networks, the ML models were broken down into separate notebooks so they could be run in parallel in a high performance cloud computing environment. 
+    - [Car Depreciation] (https://github.com/sethorus30/Car_depreciation-analysis/blob/main/Capstone_machine_learning-depreciation_per_year_compounded.ipynb) Trying to figure out what was the main cause for the cars' compunded depreciation, which features played a bigger role in a car retaining their value over an extended period of time
+    
+  
